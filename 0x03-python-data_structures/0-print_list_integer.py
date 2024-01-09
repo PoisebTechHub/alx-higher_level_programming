@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-def print_list_integer(my_list[]):
-    for k in range(len(my_list))
-    print("{:d}". format(my_list[k]))
+def print_list_integer(my_list=[]):
+    """Printing all integers of a list"""
+    for k in my_list:
+    print("{:d}".format(k))
