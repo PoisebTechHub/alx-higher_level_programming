@@ -2,7 +2,7 @@
 
 '''
 Writing a function that prints an integer with "{:d}".format().
-1. Prototype: def safe_print_integer(value): 
+1. Prototype: def safe_print_integer(value):
 2. value can be any type (integer, string, etc.)
 3. The integer should be printed followed by a new line
 4. Returns True if value has been correctly printed

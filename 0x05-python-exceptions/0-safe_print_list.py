@@ -2,7 +2,7 @@
 
 '''
 Writing a function that prints x elements of a list
-1. Prototype: def safe_print_list(my_list=[], x=0): 
+1. Prototype: def safe_print_list(my_list=[], x=0):
 2. my_list can contain any type (integer, string, etc.)
 3. All elements must be printed on the same line followed by a new line.
 4. x represents the number of elements to print
