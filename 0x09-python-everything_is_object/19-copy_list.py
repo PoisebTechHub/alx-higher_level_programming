@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 '''
 Write a function def copy_list(l): that returns a copy of a list.
 1. The input list can contain any type of objects
