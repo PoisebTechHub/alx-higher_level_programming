@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-"""A python script that fetches https://alx-intranet.hbtn.io/status."""
-import urllib.request    """Imsporting using urllib package"""
+"""
+A python script that fetches https://alx-intranet.hbtn.io/status
+Importing using urllib package
+"""
+import urllib.request
 
 
 if __name__ == "__main__":
